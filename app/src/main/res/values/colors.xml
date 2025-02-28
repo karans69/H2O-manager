@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="brName">#00719d</color>
+    <color name="aqua">#62c1bf</color>
+    <color name="light_blue">#E0F7FA</color>
+    <color name="Card1">#2ec4b6</color>
+    <color name="Card3">#cbf3f0</color>
+    <color name="Card2">#ffbf69</color>
+    <color name="Card4">#ff9f1c</color>
+    <color name="Background">#EFF7FE</color>
+    <color name="Sky_Blue">#5DE3FB</color>
+    <color name="gray">#D5D6D7</color>
+    <color name="gray2">#808183</color>
+    <color name="paid">#039748</color>
+    <color name="pending">#EF3F3F</color>
+    <color name="deepBlue">#00008B</color>
+    <color name="bg2">#FDFDFD</color>
+    <color name="bilu">#007FFF</color>
+    <color name="PeachPink">#FADBD8</color>
+    <color name="SoftYellow">#F9E79F</color>
+    <color name="LavenderMist">#F5EEF8</color>
+    <color name="SoftCoral">#023047</color>
+    <color name="WarmBeige">#EDBB99</color>
+    <color name="blue_back">#1EADE5</color>
+
+</resources>

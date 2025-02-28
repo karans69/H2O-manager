@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">H2O Manager</string>
+    <string name="start">START</string>
+    <string name="click_on_start_to_proceed">click on start to proceed</string>
+    <string name="manage_your_business">Manage your business\nWith easy clicks</string>
+    <string name="design_by_c_j">Design by C.J.</string>
+    <string name="your_water_supply_nat_your_fingertips">Your water supply \nat your fingertips</string>
+    <string name="aqua_supply">BHARAT AQUA</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="continue_with">Continue With</string>
+    <string name="or">Or</string>
+    <string name="total">Total</string>
+    <string name="email">Email</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_account">Already Have Account</string>
+    <string name="sign_up_with">Sign Up With</string>
+    <string name="number">Number</string>
+    <string name="sign_up_here">Sign Up Here</string>
+    <string name="email1">Email</string>
+    <string name="login">Login</string>
+    <string name="_0">0</string>
+    <string name="expance">Expance</string>
+    <string name="expense">Expense</string>
+    <string name="paid">Paid</string>
+
+    <string name="pending">Pending</string>
+    <string name="add_customer">ADD CUSTOMER</string>
+    <string name="enter_name">Enter_name</string>
+    <string name="enter_number">Enter_number</string>
+    <string name="edit_customer_details">Edit Customer Details</string>
+    <string name="customers">Customers</string>
+    <string name="add_payment">ADD PAYMENT</string>
+    <string name="filter">filter</string>
+    <string name="_01_01_0001">01/01/0001</string>
+    <string name="amount">Amount</string>
+    <string name="sample_oneline_text">This is a sample long text that will be restricted to one line</string>
+    <string name="add">ADD</string>
+    <string name="transactions">Transactions</string>
+    <string name="send_pending_report">Send Pending Report</string>
+    <string name="save_pdf">Save PDF</string>
+    <string name="add_date">Add date</string>
+    <string name="epenses">Epenses</string>
+</resources>

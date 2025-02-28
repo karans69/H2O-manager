@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304764820779",
+    "project_id": "h2o-manager",
+    "storage_bucket": "h2o-manager.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304764820779:android:a0ad519d4d737ac2e3796e",
+        "android_client_info": {
+          "package_name": "com.example.h2omanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdt38tN323ztYip4bbJjlUUznuMPBLpHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
